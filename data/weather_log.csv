@@ -1,2 +1,6 @@
 timestamp,city,temperature,description
+timestamp,city,temperature,description
 2026-03-17T14:37:06.801Z,Tokyo,10.64,broken clouds
+2026-05-12T11:54:16.188Z,London,15.83,scattered clouds
+2026-05-12T12:18:22.935Z,London,15.78,scattered clouds
+2026-05-12T12:18:31.038Z,London,15.78,scattered clouds
